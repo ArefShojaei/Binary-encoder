@@ -95,6 +95,22 @@ Install dependencies:
 composer install
 ```
 
+## Environment Configuration
+Rename the .env.example file to .env and update the environment variables with your actual project configuration.
+
+```txt
+BINARY_SECRET_KEY=
+```
+
+> Security tip: openssl rand -base64 [length]
+
+Use **openssl** to make a random secret-key
+
+```txt
+openssl rand -base64 40 # m3sV5dFxqxF0TXM8JTiOvxrqQq0Lavyc4Ye9CCAeB90Slr5tdqotwQ==
+openssl rand -base64 ...
+```
+
 ---
 
 # 🚀 Running the Application
