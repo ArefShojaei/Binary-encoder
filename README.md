@@ -8,6 +8,10 @@ Convert text to binary and binary back to text with a clean modern interface and
 [![Framework](https://img.shields.io/badge/Framework-Routex-purple.svg)](https://github.com/ArefShojaei/Routex)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+
+<img width="100%" alt="cover" src="https://github.com/user-attachments/assets/4fd9884a-bb15-4089-a2ea-b3495e52bfd7" />
+
+
 ---
 
 ## ✨ Features
@@ -20,12 +24,7 @@ Convert text to binary and binary back to text with a clean modern interface and
 - 🔧 **Middleware Support** — Method validation (Only POST)
 - 📦 **Service Layer** — Clean separation of business logic
 - 🪶 **Lightweight** — Fast and minimal
-
----
-
-## 🖼️ Preview
-
-
+- 
 ---
 
 ## 🚀 API Endpoints
