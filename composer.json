@@ -1,0 +1,30 @@
+{
+    "type": "project",
+    "license": "MIT",
+    "keywords": [
+        "routing",
+        "router",
+        "file",
+        "framework"
+    ],
+    "prefer-stable": true,
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Routex\\": "core/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ArefShojaei",
+            "email": "arefshojaei82@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : "^8.0",
+        "arefshojaei/php-x": "^1.6",
+        "arefshojaei/kitdash": "^2.0",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
